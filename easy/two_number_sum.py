@@ -16,7 +16,7 @@
 '''
 def twoNumberSum(array, targetSum):
     result = []
-    for i in range(0, len(array)):
+    for i in enumerate(array):
         firstNum = array[i]
         for j in range(i+1, len(array)):
             secondNum = array[j]
