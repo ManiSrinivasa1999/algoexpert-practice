@@ -11,3 +11,7 @@
 7. Class Photos
 8. Tandem Bicycle
 9. Tournament Winner
+
+## Medium Problems
+
+1. First Duplicate Value
