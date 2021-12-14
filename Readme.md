@@ -11,6 +11,7 @@
 7. Class Photos
 8. Tandem Bicycle
 9. Tournament Winner
+10. Caesar Cipher Encryptor
 
 ## Medium Problems
 
