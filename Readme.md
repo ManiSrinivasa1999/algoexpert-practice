@@ -12,6 +12,7 @@
 8. Tandem Bicycle
 9. Tournament Winner
 10. Caesar Cipher Encryptor
+11. Bubble Sort
 
 ## Medium Problems
 
