@@ -13,6 +13,7 @@
 9. Tournament Winner
 10. Caesar Cipher Encryptor
 11. Bubble Sort
+12. Insertion Sort
 
 ## Medium Problems
 
