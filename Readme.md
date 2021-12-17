@@ -18,3 +18,4 @@
 ## Medium Problems
 
 1. First Duplicate Value
+2. Smallest Difference
