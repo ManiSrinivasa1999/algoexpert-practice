@@ -20,3 +20,5 @@
 
 1. First Duplicate Value
 2. Smallest Difference
+3. Three Number Sum
+4. Array Of Products
