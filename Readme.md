@@ -22,3 +22,5 @@
 2. Smallest Difference
 3. Three Number Sum
 4. Array Of Products
+5. Move Element To End
+6. Monotonic Array
