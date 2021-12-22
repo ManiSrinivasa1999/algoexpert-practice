@@ -16,6 +16,7 @@
 12. Insertion Sort
 13. First Non-Repeating Charcter
 14. Generate Document
+15. Binary Search
 
 ## Medium Problems
 
