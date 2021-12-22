@@ -15,6 +15,7 @@
 11. Bubble Sort
 12. Insertion Sort
 13. First Non-Repeating Charcter
+14. Generate Document
 
 ## Medium Problems
 
