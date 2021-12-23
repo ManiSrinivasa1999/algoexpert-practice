@@ -17,6 +17,7 @@
 13. First Non-Repeating Charcter
 14. Generate Document
 15. Binary Search
+16. Run Length Encoding
 
 ## Medium Problems
 
