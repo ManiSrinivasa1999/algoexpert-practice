@@ -18,6 +18,7 @@
 14. Generate Document
 15. Binary Search
 16. Run Length Encoding
+17. Remove Duplicates from Linkedlist
 
 ## Medium Problems
 
