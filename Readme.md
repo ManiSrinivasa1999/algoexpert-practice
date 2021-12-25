@@ -19,6 +19,7 @@
 15. Binary Search
 16. Run Length Encoding
 17. Remove Duplicates from Linkedlist
+18. Product Sum
 
 ## Medium Problems
 
