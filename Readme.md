@@ -20,6 +20,7 @@
 16. Run Length Encoding
 17. Remove Duplicates from Linkedlist
 18. Product Sum
+19. Selection Sort
 
 ## Medium Problems
 
