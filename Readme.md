@@ -22,6 +22,7 @@
 18. Product Sum
 19. Selection Sort
 20. Non-Constructible Change
+21. Minimum Waiting Time
 
 ## Medium Problems
 
