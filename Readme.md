@@ -23,6 +23,7 @@
 19. Selection Sort
 20. Non-Constructible Change
 21. Minimum Waiting Time
+22. Branch Sums
 
 ## Medium Problems
 
