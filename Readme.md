@@ -24,7 +24,7 @@
 20. Non-Constructible Change
 21. Minimum Waiting Time
 22. Branch Sums
-
+23. Depth first-search
 ## Medium Problems
 
 1. First Duplicate Value
