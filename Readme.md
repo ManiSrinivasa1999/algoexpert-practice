@@ -25,6 +25,7 @@
 21. Minimum Waiting Time
 22. Branch Sums
 23. Depth first-search
+24. Node Depths
 ## Medium Problems
 
 1. First Duplicate Value
