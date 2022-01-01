@@ -26,6 +26,7 @@
 22. Branch Sums
 23. Depth first-search
 24. Node Depths
+25. Find Closest Value in BST
 ## Medium Problems
 
 1. First Duplicate Value
