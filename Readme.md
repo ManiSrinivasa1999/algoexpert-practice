@@ -35,3 +35,4 @@
 4. Array Of Products
 5. Move Element To End
 6. Monotonic Array
+7. Remove Kth Node from End - Linkedlist
