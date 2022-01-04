@@ -37,3 +37,4 @@
 6. Monotonic Array
 7. Remove Kth Node from End - Linkedlist
 8. Sum of Linked Lists
+9. Spiral Traverse
