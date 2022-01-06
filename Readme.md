@@ -39,3 +39,4 @@
 8. Sum of Linked Lists
 9. Spiral Traverse
 10. Task Assignment
+11. Power set of array
