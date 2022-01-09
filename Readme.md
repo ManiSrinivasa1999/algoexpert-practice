@@ -27,6 +27,7 @@
 23. Depth first-search
 24. Node Depths
 25. Find Closest Value in BST
+
 ## Medium Problems
 
 1. First Duplicate Value
@@ -42,3 +43,4 @@
 11. Power set of array
 12. Search In Sorted Matrix
 13. Three Number Sort
+14. Merge Overlapping Intervals
