@@ -5,16 +5,20 @@
 
   In other words, the value at output[i] is equal to the product of
   every number in the input array other than input[i]"""
+
+
 def arrayOfProducts(array):
     res = []
     for i in range(0, len(array)):
         temp = []
         for k in range(0, len(array)):
             if k != i:
-                temp.append(array[k])				
+                temp.append(array[k])
         mul = 1
         for j in temp:
-            mul*=j
+            mul *= j
         res.append(mul)
     return res
+
+
 print(arrayOfProducts(list(map(int, input().split()))))

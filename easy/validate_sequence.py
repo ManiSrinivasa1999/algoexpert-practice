@@ -10,6 +10,8 @@
   that a single number in an array and the array itself are both valid
   subsequences of the array.
 """
+
+
 def isValidSubsequence(array, sequence):
     arrIndex = 0
     seqIndex = 0
@@ -18,4 +20,7 @@ def isValidSubsequence(array, sequence):
             seqIndex += 1
         arrIndex += 1
     return seqIndex == len(sequence)
-print(isValidSubsequence(list(map(int, input().split())),list(map(int, input().split()))))
+
+
+print(isValidSubsequence(list(map(int, input().split())),
+      list(map(int, input().split()))))

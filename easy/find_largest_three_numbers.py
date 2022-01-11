@@ -8,6 +8,8 @@
   should return [10, 10, 12] for an input array of [10, 5, 9, 10, 12]
   
 """
+
+
 def findThreeLargestNumbers(array):
     res = []
     m1 = max(array)
@@ -41,4 +43,6 @@ def findThreeLargestNumbers(array):
             res.append(m1)
             res.append(m2)
     return res
+
+
 print(findThreeLargestNumbers(list(map(int, input().split()))))

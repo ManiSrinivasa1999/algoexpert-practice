@@ -4,4 +4,6 @@
 def sortedSquaredArray(array):
     result = [int(i)*int(i) for i in array]
     return sorted(result)
+
+
 print(sortedSquaredArray(input().split(' ')))
