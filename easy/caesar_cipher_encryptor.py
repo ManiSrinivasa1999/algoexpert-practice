@@ -6,14 +6,18 @@
   Note that letters should "wrap" around the alphabet; in other words, the z  shifted by one returns the letter a
 
 """
+
+
 def caesarCipherEncryptor(string, key):
     array = []
-    key = key%26
+    key = key % 26
     for i in string:
         temp = ord(i)
-        if temp+key > 122:
-            array.append(chr(temp+key - 26))
+        if temp + key > 122:
+            array.append(chr(temp + key - 26))
         else:
-            array.append(chr(temp+key))		
+            array.append(chr(temp + key))
     return ''.join(array)
+
+
 print(caesarCipherEncryptor(input(), int(input())))

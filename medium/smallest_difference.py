@@ -11,6 +11,8 @@
   You can assume that there will only be one pair of numbers with the smallest
   difference.
 """
+
+
 def smallestDifference(arrayOne, arrayTwo):
     arrayOne.sort()
     arrayTwo.sort()
@@ -34,4 +36,7 @@ def smallestDifference(arrayOne, arrayTwo):
             smallest = current
             smallestPair = [firstNum, secondNum]
     return smallestPair
-print(smallestDifference(list(map(int, input().split())), list(map(int, input().split()))))
+
+
+print(smallestDifference(list(map(int, input().split())),
+      list(map(int, input().split()))))

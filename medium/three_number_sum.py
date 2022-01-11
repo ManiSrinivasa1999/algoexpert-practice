@@ -8,6 +8,8 @@
   If no three numbers sum up to the target sum, the function should return an
   empty array.
 """
+
+
 def threeNumberSum(array, targetSum):
     res = []
     for i in range(0, len(array)):
@@ -24,4 +26,6 @@ def threeNumberSum(array, targetSum):
                     temp.sort()
                     res.append(temp)
     return sorted(res)
+
+
 print(threeNumberSum(list(map(int, input().split())), int(input())))
