@@ -8,6 +8,8 @@
   has the minimum index.
   If no integer appears more than once, your function should return -1
 """
+
+
 def firstDuplicateValue(array):
     nonRepeatedValues = []
     result = 0
@@ -17,7 +19,9 @@ def firstDuplicateValue(array):
         if i not in nonRepeatedValues:
             nonRepeatedValues.append(i)
         else:
-            result =+ i
+            result = + i
             break
     return result
+
+
 print(firstDuplicateValue(list(map(int, input().split()))))

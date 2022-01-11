@@ -14,6 +14,8 @@
   You can assume that there will be at most one pair of numbers summing up to
   the target sum.
 '''
+
+
 def twoNumberSum(array, targetSum):
     result = []
     for i in enumerate(array):
@@ -24,6 +26,8 @@ def twoNumberSum(array, targetSum):
                 result.append(firstNum)
                 result.append(secondNum)
     return result
+
+
 array = list(map(int, input().strip().split()))
 targetSum = int(input())
 print(twoNumberSum(array, targetSum))

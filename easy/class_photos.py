@@ -17,9 +17,12 @@
   height will be a positive integer. Write a function that returns whether or
   not a class photo that follows the stated guidelines can be taken.
 """
+
+
 def classPhotos(redShirtHeights, blueShirtHeights):
     # Write your code here.
-    shirtColorInFirstRow = 'Red' if redShirtHeights[0] < blueShirtHeights[0] else 'Blue'
+    shirtColorInFirstRow = 'Red' if redShirtHeights[0] < blueShirtHeights[
+        0] else 'Blue'
     flag = False
     for i in range(len(redShirtHeights)):
         maxRed = max(redShirtHeights)
@@ -38,4 +41,9 @@ def classPhotos(redShirtHeights, blueShirtHeights):
             flag = False
             break
     return flag
-print(classPhotos(list(map(int, input().split())), list(map(int, input().split()))))
+
+
+print(
+    classPhotos(list(map(int,
+                         input().split())), list(map(int,
+                                                     input().split()))))

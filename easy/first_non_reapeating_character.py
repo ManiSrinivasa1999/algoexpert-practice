@@ -7,6 +7,8 @@
   If the input string doesn't have any non-repeating characters, your function
   should return -1
 """
+
+
 def firstNonRepeatingCharacter(string):
     for i in range(len(string)):
         tempString = string[i]
@@ -16,4 +18,6 @@ def firstNonRepeatingCharacter(string):
         else:
             return i
     return -1
+
+
 print(firstNonRepeatingCharacter(input()))

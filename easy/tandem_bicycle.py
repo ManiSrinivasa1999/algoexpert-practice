@@ -27,25 +27,30 @@
   paired on tandem bicycles as follows: [1, 4], [5, 3], then the
   total speed of these tandem bicycles is 4 + 5 = 9
 """
+
+
 def tandemBicycle(redShirtSpeeds, blueShirtSpeeds, fastest):
-	redShirtSpeeds.sort()
-	blueShirtSpeeds.sort()
-	res = 0	
-	if not fastest:
-		reverseArrayInPlace(redShirtSpeeds)
-	for i in range(len(redShirtSpeeds)):
-		rider1 = redShirtSpeeds[i]
-		rider2 = blueShirtSpeeds[len(redShirtSpeeds) - i - 1]
-		res += max(rider1, rider2)
-	return res
-		
+    redShirtSpeeds.sort()
+    blueShirtSpeeds.sort()
+    res = 0
+    if not fastest:
+        reverseArrayInPlace(redShirtSpeeds)
+    for i in range(len(redShirtSpeeds)):
+        rider1 = redShirtSpeeds[i]
+        rider2 = blueShirtSpeeds[len(redShirtSpeeds) - i - 1]
+        res += max(rider1, rider2)
+    return res
+
 
 def reverseArrayInPlace(array):
-	start = 0
-	end = len(array) - 1
-	while start < end:
-		array[start], array[end] = array[end], array[start]
-		start += 1
-		end -= 1
-	return array
-print(tandemBicycle(list(map(int, input().split())), list(map(int, input().split())), input()))
+    start = 0
+    end = len(array) - 1
+    while start < end:
+        array[start], array[end] = array[end], array[start]
+        start += 1
+        end -= 1
+    return array
+
+
+print(tandemBicycle(list(map(int, input().split())),
+      list(map(int, input().split())), input()))
