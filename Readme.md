@@ -48,3 +48,4 @@
 16. Reverse Words In String
 17. Mnemonics
 18. Balanced Brackets
+19. Sort Stack
