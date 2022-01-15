@@ -49,3 +49,4 @@
 17. Mnemonics
 18. Balanced Brackets
 19. Sort Stack
+20. Next Greater Element
