@@ -50,3 +50,4 @@
 18. Balanced Brackets
 19. Sort Stack
 20. Next Greater Element
+21. Anagrams
