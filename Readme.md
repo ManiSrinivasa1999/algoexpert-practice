@@ -51,3 +51,7 @@
 19. Sort Stack
 20. Next Greater Element
 21. Anagrams
+
+## Hard
+
+1. Index Equal Values
