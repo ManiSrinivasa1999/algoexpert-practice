@@ -52,6 +52,7 @@
 20. Next Greater Element
 21. Anagrams
 22. Valid IP Address
+23. Min Max Stack Construction
 
 ## Hard
 
