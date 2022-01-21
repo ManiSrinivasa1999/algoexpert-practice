@@ -59,3 +59,4 @@
 1. Index Equal Values
 2. Four Number Sum
 3. Search For Range
+4. Quick Select
