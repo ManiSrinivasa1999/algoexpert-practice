@@ -60,3 +60,4 @@
 2. Four Number Sum
 3. Search For Range
 4. Quick Select
+5. Shifted Binary Search
