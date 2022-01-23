@@ -61,3 +61,4 @@
 3. Search For Range
 4. Quick Select
 5. Shifted Binary Search
+6. Largest Range
