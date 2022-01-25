@@ -62,5 +62,8 @@
 4. Quick Select
 5. Shifted Binary Search
 6. Largest Range
-7. Right Smaller Than
-8. Multi String Search
+7. Multi String Search
+
+## Very Hard
+
+1. Right Smaller Than
