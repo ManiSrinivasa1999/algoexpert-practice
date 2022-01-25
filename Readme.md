@@ -51,3 +51,19 @@
 19. Sort Stack
 20. Next Greater Element
 21. Anagrams
+22. Valid IP Address
+23. Min Max Stack Construction
+
+## Hard
+
+1. Index Equal Values
+2. Four Number Sum
+3. Search For Range
+4. Quick Select
+5. Shifted Binary Search
+6. Largest Range
+7. Multi String Search
+
+## Very Hard
+
+1. Right Smaller Than
