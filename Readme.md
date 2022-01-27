@@ -63,7 +63,9 @@
 5. Shifted Binary Search
 6. Largest Range
 7. Multi String Search
+8. Maximize Expression
 
 ## Very Hard
 
 1. Right Smaller Than
+2. Merge Sorted Arrays
