@@ -65,6 +65,7 @@
 6. Largest Range
 7. Multi String Search
 8. Maximize Expression
+9. Min Rewards
 
 ## Very Hard
 
