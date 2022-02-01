@@ -66,6 +66,7 @@
 7. Multi String Search
 8. Maximize Expression
 9. Min Rewards
+10. Min Num of Jumps - INPROGRESS
 
 ## Very Hard
 
