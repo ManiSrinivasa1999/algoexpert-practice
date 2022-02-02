@@ -54,6 +54,7 @@
 22. Valid IP Address
 23. Min Max Stack Construction
 24. Longest Peak
+25. Permutations
 
 ## Hard
 
