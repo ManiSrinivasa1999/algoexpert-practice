@@ -68,6 +68,7 @@
 8. Maximize Expression
 9. Min Rewards
 10. Min Num of Jumps - INPROGRESS
+11. Sub array sort
 
 ## Very Hard
 
