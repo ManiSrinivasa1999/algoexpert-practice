@@ -55,6 +55,7 @@
 23. Min Max Stack Construction
 24. Longest Peak
 25. Permutations
+26. Longest Palindromic Substring
 
 ## Hard
 
