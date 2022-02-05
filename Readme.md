@@ -70,6 +70,7 @@
 9. Min Rewards
 10. Min Num of Jumps - INPROGRESS
 11. Sub array sort
+12. Longest substring without duplication
 
 ## Very Hard
 
